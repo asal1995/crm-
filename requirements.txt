@@ -1,0 +1,7 @@
+django~=5.0.6
+redis
+djangorestframework
+django-environ
+requests
+psycopg2
+psycopg2-binary
